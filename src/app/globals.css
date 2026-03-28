@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.12);
+  color: #0f172a;
+}
