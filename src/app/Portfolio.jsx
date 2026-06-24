@@ -156,7 +156,7 @@ const portfolioData = {
         "β版としてVercelで公開中・フィードバック収集中。学習データをローカルに保存し、カレンダー・連続日数・週次レポートで継続状況を可視化",
       color: "#0D9488",
       chartData: [10, 25, 40, 55, 65, 75, 85],
-      github: null,
+      github: "https://github.com/junkohanda/learning-stamp",
     },
   ],
 };
